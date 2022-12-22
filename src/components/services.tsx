@@ -7,7 +7,7 @@ import dj from "../../public/assets/globo.gif";
 export default function Services() {
   const [isOpen, setIsOpen] = useState(false);
   return (
-    <section className="w-full h-screen p-4 text-white flex flex-col justify-center items-center">
+    <section className="w-full h-screen bg-black p-4 text-white flex flex-col justify-center items-center">
       <Image
         src={dj}
         alt=""
