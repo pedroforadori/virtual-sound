@@ -23,7 +23,7 @@ export default function Apresentation() {
         <p>Som, dj, iluminção e telão - para sua festa!</p>
         <p className="mt-4">
           Faça seu orçamento pelo
-          <Link className="underline cursor-pointer ml-2" href="#">
+          <Link className="underline cursor-pointer ml-2" href="https://wa.me/5511984399307">
             whatsapp
           </Link>
         </p>
